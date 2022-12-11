@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.lang.String;
 class demo extends Frame{
     TextField tf1; 
-    TextField tf2; 
+    TextField tf2;
     TextField tf3;
     Label l1; 
     Button b;
