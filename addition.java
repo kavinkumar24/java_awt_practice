@@ -43,8 +43,6 @@ class frame extends Frame implements ActionListener{
         String result_sub = String.valueOf(c);
         String result = String.valueOf(c);
         tf3.setText(result);
-   
-        
     }
     public  static void main(String args[]){
         frame f = new frame();
