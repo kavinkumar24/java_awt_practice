@@ -90,6 +90,4 @@ class demo extends Frame{
         f.setBackground(Color.red);
         f.setTitle("Demo frame");
         f.setVisible(true);
-    }
-
-}
+    }}
