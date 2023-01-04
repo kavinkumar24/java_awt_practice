@@ -18,5 +18,13 @@ class awt extends Frame{
                     tf1.setText("Welcome");
                 }
             });
+        public static void main(String args[]){
+        awt d1 = new awt();
+        d1.setTitle("frames");
+        d1.setSize(300,300);
+        d1.setVisible(true);
+        
+        
+    }
     }
   
